@@ -1,18 +1,19 @@
 # DIGI-TAGS
 
-This is a list of sources for obtain your **digi-tag**!
+This is a list of resources to obtain your **digi-tag**!
 
 ## What is a digi-tag?
 
-A digi-tag is simply your needed of information and knowing!
+A digi-tag is your need of knowledge!
 
-When you get a certificate or study a book or when you learn something new, you get a digi-tag!
-It is usefull **only** for you.
+Whenever you either receive a certificate, study a book or learn something new, you get a digi-tag!
+It is valuable **only** for you.
 
-## Source
+## Resources
 
-| Source* | URL | Pay  | Certification | Learning type |
+| Resource* | URL | Pay  | Certification | Learning type |
 | ------- | --- | ---- | ------------- | ------------- |
+| egghead.io | [https://www.egghead.io](https://www.egghead.io) | Freemium :heavy_dollar_sign: :gift: | :trophy: | :tv: :walking:
 
 _*in alphabetical order_
 
@@ -40,4 +41,4 @@ _*in alphabetical order_
 
 ## Contribute
 
-If you would add some sources of knowing, or give new ideas, you can open an Issue or make a Pull Request.
+If you wanna add new resources, or share new ideas, please create a Pull Request or open an Issue.
