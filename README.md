@@ -1,13 +1,13 @@
 # DIGI-TAGS
 
-This is a list of sources for obtain your **digi-tag**!
+This is a list of sources to obtain your **digi-tag**!
 
 ## What is a digi-tag?
 
-A digi-tag is simply your needed of information and knowing!
+A digi-tag is simply your need of information and knowing!
 
 When you get a certificate or study a book or when you learn something new, you get a digi-tag!
-It is usefull **only** for you.
+It is useful **only** for you.
 
 ## Source
 
