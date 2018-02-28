@@ -11,12 +11,16 @@ It is valuable **only** for you.
 
 ## Resources
 
+
 | Resource* | URL | Pay  | Certification | Learning type |
+| ------- | --- | ---- | ------------- | ------------- |
 | egghead.io | [https://www.egghead.io](https://www.egghead.io) | Freemium :heavy_dollar_sign: :gift: | :trophy: | :tv: :walking:
 | FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
+
 _*in alphabetical order_
 
-### Legenda
+
+### Legend
 
 | Icon                     | Description                             |
 | ------------------------ | --------------------------------------- |
