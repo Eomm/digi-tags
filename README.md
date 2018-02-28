@@ -13,9 +13,9 @@ It is valuable **only** for you.
 
 
 | Resource* | URL | Pay  | Certification | Learning type |
-| ------- | --- | ---- | ------------- | ------------- |
-| egghead.io | [https://www.egghead.io](https://www.egghead.io) | Freemium :heavy_dollar_sign: :gift: | :trophy: | :tv: :walking:
-| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
+| --------- | --- | ---- | ------------- | ------------- |
+| egghead.io  | [https://www.egghead.io](https://www.egghead.io)             | :scissors: | :trophy:                | :tv: :walking:
+| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :mortar_board: | :tv: :walking:
 
 _*in alphabetical order_
 
@@ -34,7 +34,7 @@ _*in alphabetical order_
 | :scissors:               | Freemium model                          |
 | **Certification**        | Icons for the `Certification` column    |
 | :scroll:                 | A digital certification is released     |
-| :pencil:                 | A paper certification is released       |
+| :mortar_board:           | A paper certification is released       |
 | :trophy:                 | You get digital trophies                |
 | **Learning type**        | Icons for the `Learning type` column    |
 | :tv:                     | Video course                            |
@@ -46,3 +46,9 @@ _*in alphabetical order_
 ## Contribute
 
 If you want to add new resources, or share new ideas, create a Pull Request or open an Issue.
+
+### Some little rules
+
++ If there is not an icon for describe a situation, let's discuss it and add a new one;
++ Don't use works on Resource's list;
+
