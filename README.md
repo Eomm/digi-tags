@@ -11,14 +11,13 @@ It is valuable **only** for you.
 
 ## Resources
 
-
 | Resource* | URL | Pay  | Certification | Learning type |
 | --------- | --- | ---- | ------------- | ------------- |
+| edX | [https://www.edx.org/](https://www.edx.org/) | :scissors: | :scroll: :pencil: | :tv: :walking:
 | egghead.io  | [https://www.egghead.io](https://www.egghead.io)             | :scissors: | :trophy:                | :tv: :walking:
 | FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :mortar_board: | :tv: :walking:
 
 _*in alphabetical order_
-
 
 ### Legend
 
