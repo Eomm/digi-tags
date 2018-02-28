@@ -14,6 +14,7 @@ It is useful **only** for you.
 | Source* | URL | Pay  | Certification | Learning type |
 | ------- | --- | ---- | ------------- | ------------- |
 | FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
+| edX | [https://www.edx.org/](https://www.edx.org/) | :scissors: | :scroll: :pencil: | :tv: :walking:
 
 _*in alphabetical order_
 
