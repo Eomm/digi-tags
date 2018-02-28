@@ -13,7 +13,7 @@ It is useful **only** for you.
 
 | Source* | URL | Pay  | Certification | Learning type |
 | ------- | --- | ---- | ------------- | ------------- |
-| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | Freemium :heavy_dollar_sign: :gift: | :scroll: and :pencil: | :tv: :walking:
+| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
 
 _*in alphabetical order_
 
@@ -28,6 +28,7 @@ _*in alphabetical order_
 | :heavy_dollar_sign:      | Paid courses                            |
 | :gift:                   | Free courses                            |
 | :lock:                   | Pay only the certification              |
+| :scissors:               | Freemium model                          |
 | **Certification**        | Icons for the `Certification` column    |
 | :scroll:                 | A digital certification is released     |
 | :pencil:                 | A paper certification is released       |
