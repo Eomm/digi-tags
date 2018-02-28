@@ -1,18 +1,19 @@
 # DIGI-TAGS
 
-This is a list of sources for obtain your **digi-tag**!
+This is a list of sources to obtain your **digi-tag**!
 
 ## What is a digi-tag?
 
-A digi-tag is simply your needed of information and knowing!
+A digi-tag is simply your need of information and knowing!
 
 When you get a certificate or study a book or when you learn something new, you get a digi-tag!
-It is usefull **only** for you.
+It is useful **only** for you.
 
 ## Source
 
 | Source* | URL | Pay  | Certification | Learning type |
 | ------- | --- | ---- | ------------- | ------------- |
+| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
 
 _*in alphabetical order_
 
@@ -27,6 +28,7 @@ _*in alphabetical order_
 | :heavy_dollar_sign:      | Paid courses                            |
 | :gift:                   | Free courses                            |
 | :lock:                   | Pay only the certification              |
+| :scissors:               | Freemium model                          |
 | **Certification**        | Icons for the `Certification` column    |
 | :scroll:                 | A digital certification is released     |
 | :pencil:                 | A paper certification is released       |
