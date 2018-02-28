@@ -4,17 +4,16 @@ This is a list of resources to obtain your **digi-tag**!
 
 ## What is a digi-tag?
 
-A digi-tag is your need of knowledge!
+A digi-tag is simply your need of knowledge!
 
-Whenever you either receive a certificate, study a book or learn something new, you get a digi-tag!
+Whether you receive a certificate, study a book or learn something new, you get a digi-tag!
 It is valuable **only** for you.
 
 ## Resources
 
 | Resource* | URL | Pay  | Certification | Learning type |
-| ------- | --- | ---- | ------------- | ------------- |
 | egghead.io | [https://www.egghead.io](https://www.egghead.io) | Freemium :heavy_dollar_sign: :gift: | :trophy: | :tv: :walking:
-
+| FutureLearn | [https://www.futurelearn.com/](https://www.futurelearn.com/) | :scissors: | :scroll: :pencil: | :tv: :walking:
 _*in alphabetical order_
 
 ### Legenda
@@ -28,6 +27,7 @@ _*in alphabetical order_
 | :heavy_dollar_sign:      | Paid courses                            |
 | :gift:                   | Free courses                            |
 | :lock:                   | Pay only the certification              |
+| :scissors:               | Freemium model                          |
 | **Certification**        | Icons for the `Certification` column    |
 | :scroll:                 | A digital certification is released     |
 | :pencil:                 | A paper certification is released       |
@@ -41,4 +41,4 @@ _*in alphabetical order_
 
 ## Contribute
 
-If you wanna add new resources, or share new ideas, please create a Pull Request or open an Issue.
+If you want to add new resources, or share new ideas, create a Pull Request or open an Issue.
