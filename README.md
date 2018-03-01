@@ -13,17 +13,27 @@ It is valuable **only** for you.
 
 | Resource* | URL | Pay  | Certification | Learning type |
 | --------- | --- | ---- | ------------- | ------------- |
-| Coursera    | [www.coursera.org/](https://www.coursera.org/)       | :lock:              | :scroll:                | :tv: :walking:
-| edX         | [www.edx.org/](https://www.edx.org/)                 | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
-| egghead.io  | [www.egghead.io](https://www.egghead.io)             | :scissors:          | :trophy:                | :tv: :walking:
-| FutureLearn | [www.futurelearn.com/](https://www.futurelearn.com/) | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
-| Khan Academy| [www.khanacademy.org/](https://www.khanacademy.org/) | :sparkling_heart:   | :trophy:                | :tv: :walking: :space_invader:
-| Learn X in Y Minutes | [learnxinyminutes.com/](http://learnxinyminutes.com/) | :gift:    | :white_flag:            | :books:
-| Nodejsera   | [www.nodejsera.com/](https://www.nodejsera.com/)     | :gift:              | :white_flag:            | :walking:
-| NodeSchool  | [nodeschool.io/](https://nodeschool.io/)             | :gift:              | :white_flag:            | :space_invader: :busts_in_silhouette:
-| Sketchin    | [www.sketchin.ch/](http://www.sketchin.ch/it/tools/) | :gift:              | :white_flag:            | :books:
-| Udacity     | [www.udacity.com/](https://www.udacity.com/)         | :heavy_dollar_sign: | :hourglass_flowing_sand:| :hourglass_flowing_sand:
-| Udemy       | [www.udemy.com/](https://www.udemy.com/)             | :heavy_dollar_sign: | :scroll:                | :tv:
+| CodeChef    | [www.codechef.com](https://www.codechef.com/)       | :lock:              | :trophy: :scroll:       | :space_invader:
+| CodePen     | [codepen.io](https://codepen.io/)                   | :gift:              | :white_flag:            | :octocat:
+| Codewars    | [www.codewars.com](https://www.codewars.com/)       | :scissors:          | :trophy:                | :space_invader: :octocat:
+| Coursera    | [www.coursera.org](https://www.coursera.org/)       | :lock:              | :scroll:                | :tv: :walking:
+| edX         | [www.edx.org](https://www.edx.org/)                 | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
+| egghead.io  | [www.egghead.io](https://www.egghead.io/)           | :scissors:          | :trophy:                | :tv: :walking:
+| ES6 Katas   | [es6katas.org](http://es6katas.org/)                | :gift:              | :trophy:                | :space_invader: :walking:
+| exercism.io | [exercism.io](http://exercism.io/)                  | :gift:              | :white_flag:            | :space_invader:
+| FutureLearn | [www.futurelearn.com](https://www.futurelearn.com/) | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
+| Glitch      | [glitch.com](https://glitch.com/)                   | :gift:              | :white_flag:            | :octocat:
+| HackerRank  | [www.hackerrank.com](https://www.hackerrank.com/)   | :gift:              | :trophy:                | :space_invader: :octocat: :walking:
+| Katacoda    | [www.katacoda.com](https://www.katacoda.com/)       | :gift:              | :trophy:                | :space_invader:
+| Khan Academy| [www.khanacademy.org](https://www.khanacademy.org/) | :sparkling_heart:   | :trophy:                | :tv: :walking: :space_invader:
+| Learn X in Y Minutes | [learnxinyminutes.com](http://learnxinyminutes.com/) | :gift:    | :white_flag:            | :books:
+| Nodejsera   | [www.nodejsera.com](https://www.nodejsera.com/)     | :gift:              | :white_flag:            | :walking:
+| NodeSchool  | [nodeschool.io](https://nodeschool.io/)             | :gift:              | :white_flag:            | :space_invader: :busts_in_silhouette:
+| Project Euler | [projecteuler.net](https://projecteuler.net/)     | :gift:              | :hourglass_flowing_sand:| :hourglass_flowing_sand:
+| Shell Script| [www.shellscript.sh](https://www.shellscript.sh/)   | :sparkling_heart:   | :white_flag:            | :walking: :space_invader:
+| Sketchin    | [www.sketchin.ch](http://www.sketchin.ch/it/tools/) | :gift:              | :white_flag:            | :books:
+| Udacity     | [www.udacity.com](https://www.udacity.com/)         | :heavy_dollar_sign: | :hourglass_flowing_sand:| :hourglass_flowing_sand:
+| Udemy       | [www.udemy.com](https://www.udemy.com/)             | :heavy_dollar_sign: | :scroll:                | :tv:
 
 _*in alphabetical order_
 
@@ -53,6 +63,7 @@ _*in alphabetical order_
 | :school:                 | Teaching takes place at a facility      |
 | :busts_in_silhouette:    | Meet up by peers                        |
 | :books:                  | Read articles                           |
+| :octocat:                | Read code of other devs                 |
 
 ## Contribute
 
