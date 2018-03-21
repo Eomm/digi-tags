@@ -13,6 +13,7 @@ It is valuable **only** for you.
 
 | Resource* | URL | Pay  | Certification | Learning type |
 | --------- | --- | ---- | ------------- | ------------- |
+| Avanscoperta| [www.avanscoperta.it](https://www.avanscoperta.it/) | :heavy_dollar_sign: | :hourglass_flowing_sand:| :performing_arts: :school:
 | CodeChef    | [www.codechef.com](https://www.codechef.com/)       | :lock:              | :trophy: :scroll:       | :space_invader:
 | CodePen     | [codepen.io](https://codepen.io/)                   | :gift:              | :white_flag:            | :octocat:
 | Codewars    | [www.codewars.com](https://www.codewars.com/)       | :scissors:          | :trophy:                | :space_invader: :octocat:
@@ -27,6 +28,8 @@ It is valuable **only** for you.
 | Katacoda    | [www.katacoda.com](https://www.katacoda.com/)       | :gift:              | :trophy:                | :space_invader:
 | Khan Academy| [www.khanacademy.org](https://www.khanacademy.org/) | :sparkling_heart:   | :trophy:                | :tv: :walking: :space_invader:
 | Learn X in Y Minutes | [learnxinyminutes.com](http://learnxinyminutes.com/) | :gift:    | :white_flag:            | :books:
+| Linkedin Learning    | [www.linkedin.com](https://www.linkedin.com/learning/) | :heavy_dollar_sign: | :scroll:    | :tv: 
+| Linux Academy | [linuxacademy.com](https://linuxacademy.com/)     | :scissors: :lock:   | :scroll:                | :tv: 
 | Nodejsera   | [www.nodejsera.com](https://www.nodejsera.com/)     | :gift:              | :white_flag:            | :walking:
 | NodeSchool  | [nodeschool.io](https://nodeschool.io/)             | :gift:              | :white_flag:            | :space_invader: :busts_in_silhouette:
 | Project Euler | [projecteuler.net](https://projecteuler.net/)     | :gift:              | :hourglass_flowing_sand:| :hourglass_flowing_sand:
