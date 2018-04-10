@@ -24,6 +24,7 @@ It is valuable **only** for you.
 | exercism.io | [exercism.io](http://exercism.io/)                  | :gift:              | :white_flag:            | :space_invader:
 | FutureLearn | [www.futurelearn.com](https://www.futurelearn.com/) | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
 | Glitch      | [glitch.com](https://glitch.com/)                   | :gift:              | :white_flag:            | :octocat:
+| HackerEarth | [www.hackerearth.com](https://www.hackerearth.com)  | :gift:              | :trophy: :santa:        | :walking: :space_invader: :octocat:
 | HackerRank  | [www.hackerrank.com](https://www.hackerrank.com/)   | :gift:              | :trophy:                | :space_invader: :octocat: :walking:
 | Katacoda    | [www.katacoda.com](https://www.katacoda.com/)       | :gift:              | :trophy:                | :space_invader:
 | Khan Academy| [www.khanacademy.org](https://www.khanacademy.org/) | :sparkling_heart:   | :trophy:                | :tv: :walking: :space_invader:
@@ -58,6 +59,7 @@ _*in alphabetical order_
 | :scroll:                 | A digital certification is released     |
 | :mortar_board:           | A paper certification is released       |
 | :trophy:                 | You get digital trophies                |
+| :santa:                  | You can win prize in € or items         | 
 | **Learning type**        | Icons for the `Learning type` column    |
 | :tv:                     | Video course                            |
 | :walking:                | Study (read) step-by-step               |
