@@ -13,7 +13,7 @@ It is valuable **only** for you.
 
 | Resource* | URL | Pay  | Certification | Learning type |
 | --------- | --- | ---- | ------------- | ------------- |
-| Avanscoperta| [www.avanscoperta.it](https://www.avanscoperta.it/) | :heavy_dollar_sign: | :hourglass_flowing_sand:| :performing_arts: :school:
+| Avanscoperta| [www.avanscoperta.it](https://www.avanscoperta.it/) | :heavy_dollar_sign: | :scroll: :mortar_board: | :performing_arts: :school:
 | CodeChef    | [www.codechef.com](https://www.codechef.com/)       | :lock:              | :trophy: :scroll:       | :space_invader:
 | CodePen     | [codepen.io](https://codepen.io/)                   | :gift:              | :white_flag:            | :octocat:
 | Codewars    | [www.codewars.com](https://www.codewars.com/)       | :scissors:          | :trophy:                | :space_invader: :octocat:
@@ -24,6 +24,7 @@ It is valuable **only** for you.
 | exercism.io | [exercism.io](http://exercism.io/)                  | :gift:              | :white_flag:            | :space_invader:
 | FutureLearn | [www.futurelearn.com](https://www.futurelearn.com/) | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
 | Glitch      | [glitch.com](https://glitch.com/)                   | :gift:              | :white_flag:            | :octocat:
+| Google Codelabs|[codelabs.developers.google.com](https://codelabs.developers.google.com/) | :gift: | :white_flag: | :walking:
 | HackerEarth | [www.hackerearth.com](https://www.hackerearth.com)  | :gift:              | :trophy: :santa:        | :walking: :space_invader: :octocat:
 | HackerRank  | [www.hackerrank.com](https://www.hackerrank.com/)   | :gift:              | :trophy:                | :space_invader: :octocat: :walking:
 | Katacoda    | [www.katacoda.com](https://www.katacoda.com/)       | :gift:              | :trophy:                | :space_invader:
@@ -33,6 +34,7 @@ It is valuable **only** for you.
 | Linux Academy | [linuxacademy.com](https://linuxacademy.com/)     | :scissors: :lock:   | :scroll:                | :tv: 
 | Nodejsera   | [www.nodejsera.com](https://www.nodejsera.com/)     | :gift:              | :white_flag:            | :walking:
 | NodeSchool  | [nodeschool.io](https://nodeschool.io/)             | :gift:              | :white_flag:            | :space_invader: :busts_in_silhouette:
+| Pluralsight | [www.pluralsight.com](https://www.pluralsight.com/) | :heavy_dollar_sign: | :trophy: :scroll:       | :tv: :busts_in_silhouette:
 | Project Euler | [projecteuler.net](https://projecteuler.net/)     | :gift:              | :hourglass_flowing_sand:| :hourglass_flowing_sand:
 | Shell Script| [www.shellscript.sh](https://www.shellscript.sh/)   | :sparkling_heart:   | :white_flag:            | :walking: :space_invader:
 | Sketchin    | [www.sketchin.ch](http://www.sketchin.ch/it/tools/) | :gift:              | :white_flag:            | :books:
