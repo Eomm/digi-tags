@@ -28,6 +28,7 @@ It is valuable **only** for you.
 | Google Codelabs|[codelabs.developers.google.com](https://codelabs.developers.google.com/) | :gift: | :white_flag: | :walking:
 | HackerEarth | [www.hackerearth.com](https://www.hackerearth.com)  | :gift:              | :trophy: :santa:        | :walking: :space_invader: :octocat:
 | HackerRank  | [www.hackerrank.com](https://www.hackerrank.com/)   | :gift:              | :trophy:                | :space_invader: :octocat: :walking:
+| Interview Cake | [www.interviewcake.com](https://www.interviewcake.com/) | :scissors:   | :white_flag:            | :walking: :books: :performing_arts:
 | Katacoda    | [www.katacoda.com](https://www.katacoda.com/)       | :gift:              | :trophy:                | :space_invader:
 | Khan Academy| [www.khanacademy.org](https://www.khanacademy.org/) | :sparkling_heart:   | :trophy:                | :tv: :walking: :space_invader:
 | Learn X in Y Minutes | [learnxinyminutes.com](http://learnxinyminutes.com/) | :gift:    | :white_flag:            | :books:
