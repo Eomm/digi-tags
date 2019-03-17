@@ -18,6 +18,7 @@ It is valuable **only** for you.
 | CodePen     | [codepen.io](https://codepen.io/)                   | :gift:              | :white_flag:            | :octocat:
 | Codewars    | [www.codewars.com](https://www.codewars.com/)       | :scissors:          | :trophy:                | :space_invader: :octocat:
 | Coursera    | [www.coursera.org](https://www.coursera.org/)       | :lock:              | :scroll:                | :tv: :walking:
+| Educative   | [www.educative.io](https://www.educative.io/)       | :heavy_dollar_sign: | :scroll:                | :tv: :walking: :space_invader:
 | edX         | [www.edx.org](https://www.edx.org/)                 | :scissors:          | :scroll: :mortar_board: | :tv: :walking:
 | egghead.io  | [www.egghead.io](https://www.egghead.io/)           | :scissors:          | :trophy:                | :tv: :walking:
 | ES6 Katas   | [es6katas.org](http://es6katas.org/)                | :gift:              | :trophy:                | :space_invader: :walking:
